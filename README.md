@@ -40,29 +40,29 @@ El diccionario de los datos puede encontrarse [acá](https://www1.nyc.gov/assets
 
 ## Estructura del Proyecto
 
-├── LICENSE
-├── README.md
-├── data/
-│ ├── processed/
-│ │ ├── *.parquet
-│ ├── raw/
-│ │ ├── *.parquet
-├── models/
-│ ├── random_forest.joblib
-├── notebooks/
-│ ├── 01_nyc_taxi_train.ipynb
-│ ├── 02_nyc_taxi_test.ipynb
-│ ├── 03_nyc_taxi_analysis.ipynb
-├── requirements.txt
-├── src/
-│ ├── init.py
-│ ├── config.py
-│ ├── data/
-│ │ ├── data_download.py
-│ │ ├── data_preprocessing.py
-│ ├── features/
-│ ├── visualization/
-│ │ ├── visual.py
+├── LICENSE<br>
+├── README.md<br>
+├── data/<br>
+│ ├── processed/<br>
+│ │ ├── *.parquet<br>
+│ ├── raw/<br>
+│ │ ├── *.parquet<br>
+├── models/<br>
+│ ├── random_forest.joblib<br>
+├── notebooks/<br>
+│ ├── 01_nyc_taxi_train.ipynb<br>
+│ ├── 02_nyc_taxi_test.ipynb<br>
+│ ├── 03_nyc_taxi_analysis.ipynb<br>
+├── requirements.txt<br>
+├── src/<br>
+│ ├── init.py<br>
+│ ├── config.py<br>
+│ ├── data/<br>
+│ │ ├── data_download.py<br>
+│ │ ├── data_preprocessing.py<br>
+│ ├── features/<br>
+│ ├── visualization/<br>
+│ │ ├── visual.py<br>
 
 
 ## Dependencias
