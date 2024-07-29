@@ -43,26 +43,26 @@ El diccionario de los datos puede encontrarse [acá](https://www1.nyc.gov/assets
 ├── LICENSE
 ├── README.md
 ├── data/
-│   ├── processed/
-│   │   ├── *.parquet
-│   ├── raw/
-│   │   ├── *.parquet
+│ ├── processed/
+│ │ ├── *.parquet
+│ ├── raw/
+│ │ ├── *.parquet
 ├── models/
-│   ├── random_forest.joblib
+│ ├── random_forest.joblib
 ├── notebooks/
-│   ├── 01_nyc_taxi_train.ipynb
-│   ├── 02_nyc_taxi_test.ipynb
-│   ├── 03_nyc_taxi_analysis.ipynb
+│ ├── 01_nyc_taxi_train.ipynb
+│ ├── 02_nyc_taxi_test.ipynb
+│ ├── 03_nyc_taxi_analysis.ipynb
 ├── requirements.txt
 ├── src/
-│   ├── __init__.py
-│   ├── config.py
-│   ├── data/
-│   │   ├── data_download.py
-│   │   ├── data_preprocessing.py
-│   ├── features/
-│   ├── visualization/
-│   │   ├── visual.py
+│ ├── init.py
+│ ├── config.py
+│ ├── data/
+│ │ ├── data_download.py
+│ │ ├── data_preprocessing.py
+│ ├── features/
+│ ├── visualization/
+│ │ ├── visual.py
 
 
 ## Dependencias
